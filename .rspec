@@ -1,3 +1,4 @@
---format Fuubar
 --color
---profile
+--require spec_helper
+--format documentation
+--format html --out rspec.html
