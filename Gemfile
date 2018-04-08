@@ -154,6 +154,10 @@ source 'https://rubygems.org' do
     gem 'quiet_assets'
     gem 'rspec-rails'
     gem 'syntax'
+    gem 'rubycritic'
+    gem 'rubocop'
+    gem 'mutant'
+    gem 'mutant-rspec'
   end
 
   group :test do
